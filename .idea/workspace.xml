@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adc4b213-0a4b-45da-832d-6a552654c9b9" name="Default Changelist" comment="github 地址添加">
+      <change afterPath="$PROJECT_DIR$/springmvc_01_frist/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc_01_frist/src/main/java/com/dcxuexi/config/ServletContainersInitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc_01_frist/src/main/java/com/dcxuexi/config/SpringMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc_01_frist/src/main/java/com/dcxuexi/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/Java/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GqcwUXjGDj9cdUfnzDSZ96iCb5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springmvc_01_frist" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1520979" />
+    <property name="project.structure.side.proportion" value="0.2710496" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="springmvc_01_frist [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/springmvc_01_frist" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adc4b213-0a4b-45da-832d-6a552654c9b9" name="Default Changelist" comment="" />
+      <created>1667119792781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667119792781</updated>
+      <workItem from="1667119795269" duration="10665000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <created>1667120331158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667120331158</updated>
+    </task>
+    <task id="LOCAL-00002" summary="github 地址添加">
+      <created>1667120737824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667120737824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <MESSAGE value="github 地址添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="github 地址添加" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1667119800398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1667119800398" />
+    <state x="237" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667138773680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="237" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1667138773680" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1667135277475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1667135277475" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1667136107749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1667136107749" />
+    <state x="591" y="312" key="Gitee.ShareDialog" timestamp="1667120003303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="312" key="Gitee.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1667120003303" />
+    <state x="405" y="116" key="Gitee.UntrackedFilesDialog" timestamp="1667120014867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="116" key="Gitee.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1667120014867" />
+    <state x="613" y="309" width="309" height="297" key="Github.ShareDialog" timestamp="1667120552520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="613" y="309" width="309" height="297" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1667120552520" />
+    <state width="1493" height="330" key="GridCell.Tab.0.bottom" timestamp="1667140897730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="330" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667140897730" />
+    <state width="1493" height="330" key="GridCell.Tab.0.center" timestamp="1667140897730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="330" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1667140897730" />
+    <state width="1493" height="330" key="GridCell.Tab.0.left" timestamp="1667140897730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="330" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1667140897730" />
+    <state width="1493" height="330" key="GridCell.Tab.0.right" timestamp="1667140897730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="330" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1667140897730" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1667133777377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1667133777377" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1667120857042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1667120857042" />
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1667120098518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1667120098518" />
+    <state x="134" y="0" key="new project wizard" timestamp="1667133521522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="134" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1667133521522" />
+  </component>
+</project>
