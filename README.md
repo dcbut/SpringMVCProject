@@ -1,7 +1,7 @@
 # SpringMVCProject 学习项目
 
 **项目文件简介:**
-- springmvc_01_quickstart :
+- springmvc_01_frist : SpringMVC项目概述及入门案例
 - 
 - 
 
