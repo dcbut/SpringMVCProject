@@ -1,11 +1,13 @@
 package com.dcxuexi.controller;
 
 import com.dcxuexi.domain.User;
+import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
-import java.sql.Array;
 import java.util.Arrays;
+
+import java.util.Date;
 import java.util.List;
 
 /***
@@ -69,6 +71,17 @@ public class UserController {
     public String userListParamForJson(@RequestBody List<User> userList){
         System.out.println("Json参数传递 userList ==> " + userList);
         return userList.toString();
+    }
+
+    @RequestMapping("/dateParam")
+    @ResponseBody
+    public String dateParam(Date date,
+                            @DateTimeFormat(pattern = "yyyy-MM-dd") Date date2,
+                            @DateTimeFormat(pattern = "yyyy/MM/dd hh:mm:ss")Date date3){
+        System.out.println("date 参数传递 ==> " + date);
+        System.out.println("date2 参数传递 ==> " + date2);
+        System.out.println("date3 参数传递 ==> " + date3);
+        return date.toString();
     }
 
 
