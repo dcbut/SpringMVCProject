@@ -7,7 +7,7 @@
 - springmvc_03_request_param : SpringMVC项目请求(参数/五种类型参数传递/JSON数据传输参数/日期类型参数传递)
 - springmvc_04_response : SpringMVC项目响应
 - springmvc_05_rest : SpringMVC项目Rest风格
-- 
+- springmvc_05_rest_case : SpringMVC项目RESTful案例
 
 
 **代码下载地址:**
