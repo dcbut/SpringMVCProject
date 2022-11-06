@@ -4,8 +4,8 @@
 - springmvc_01_frist : SpringMVC项目概述、入门案例、工作流程解析
 - springmvc_02_bean_load : SpringMVC项目bean加载控制
 - springmvc_03_request_mapping : SpringMVC项目请求(请求映射路径)
-- springmvc_03_request_param : SpringMVC项目请求(参数)
-- 
+- springmvc_03_request_param : SpringMVC项目请求(参数/五种类型参数传递/JSON数据传输参数/日期类型参数传递)
+- springmvc_04_response : SpringMVC项目响应
 - 
 
 **代码下载地址:**
