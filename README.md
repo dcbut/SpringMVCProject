@@ -11,7 +11,7 @@
 - springmvc_06_ssm : SpringMVC项目整合ssm
 - springmvc_06_ssm_result : SpringMVC项目整合ssm统一结果封装
 - springmvc_07_exception : SpringMVC项目整合ssm统一异常处理
-- 
+- springmvc_08_interceptor : SpringMVC项目拦截器
 - 
 
 
